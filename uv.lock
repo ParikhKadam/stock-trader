@@ -307,6 +307,21 @@ wheels = [
 ]
 
 [[package]]
+name = "pandas-ta-classic"
+version = "0.3.59"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "numpy" },
+    { name = "pandas" },
+    { name = "python-dateutil" },
+    { name = "pytz" },
+    { name = "six" },
+]
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/21/8d/f9451e3a2047b26d2b0be21915a0fa654b1c977b9ef9691d797989c9246b/pandas_ta_classic-0.3.59-py3-none-any.whl", hash = "sha256:1e0ab3c1c3d68bda19783b3e01ddde8419a607ee3fe89486b2712302e1220f89", size = 253366, upload-time = "2025-11-25T17:25:56.119Z" },
+]
+
+[[package]]
 name = "peewee"
 version = "3.19.0"
 source = { registry = "https://pypi.org/simple" }
@@ -511,6 +526,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "loguru" },
     { name = "pandas" },
+    { name = "pandas-ta-classic" },
     { name = "pydantic" },
     { name = "yfinance" },
 ]
@@ -524,6 +540,7 @@ dev = [
 requires-dist = [
     { name = "loguru", specifier = ">=0.7.3" },
     { name = "pandas", specifier = ">=3.0.0" },
+    { name = "pandas-ta-classic", specifier = ">=0.1.0" },
     { name = "pydantic", specifier = ">=2.0.0" },
     { name = "yfinance", specifier = ">=0.2.0" },
 ]

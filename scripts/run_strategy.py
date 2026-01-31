@@ -17,6 +17,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from swing_trader.core import (
     SimpleMovingAverageStrategy,
     RSIStrategy,
+    SimpleMovingAverageTAStrategy,
+    RSITAStrategy,
     Backtester
 )
 
@@ -59,6 +61,8 @@ def get_strategy_class(strategy_name: str):
     strategies = {
         'sma': SimpleMovingAverageStrategy,
         'rsi': RSIStrategy,
+        'sma_ta': SimpleMovingAverageTAStrategy,
+        'rsi_ta': RSITAStrategy,
     }
 
     strategy_name = strategy_name.lower()
@@ -161,8 +165,8 @@ Examples:
     )
 
     parser.add_argument('csv_file', help='Path to CSV file with historical data')
-    parser.add_argument('strategy', choices=['sma', 'rsi'],
-                       help='Strategy to run (sma=Simple Moving Average, rsi=RSI)')
+    parser.add_argument('strategy', choices=['sma', 'rsi', 'sma_ta', 'rsi_ta'],
+                       help='Strategy to run (sma=Simple Moving Average, rsi=RSI, sma_ta=SMA with TA, rsi_ta=RSI with TA)')
 
     parser.add_argument('--params', default='',
                        help='Strategy parameters as comma-separated key=value pairs')
