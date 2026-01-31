@@ -2,9 +2,22 @@
 Trading strategy base classes
 """
 from abc import ABC, abstractmethod
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 import pandas as pd
+from pydantic import BaseModel, Field
 from ..utils.logging import logger
+
+
+class TradingSignal(BaseModel):
+    """
+    Standardized trading signal response
+    """
+    signal: str = Field(..., description="Trading signal: 'buy', 'sell', or 'hold'")
+    price: Optional[float] = Field(None, description="Execution price (None for hold signals)")
+    reason: str = Field(..., description="Reason for the signal")
+
+    def __str__(self) -> str:
+        return f"Signal({self.signal}, price={self.price}, reason='{self.reason}')"
 
 
 class TradingStrategy(ABC):
@@ -17,20 +30,26 @@ class TradingStrategy(ABC):
         self.params = params or {}
 
     @abstractmethod
-    def generate_signals(self, data: pd.DataFrame) -> pd.DataFrame:
+    def generate_signal(self, historical_data: pd.DataFrame) -> TradingSignal:
         """
-        Generate trading signals based on data
+        Generate a trading signal for the next day based on historical data up to today
 
         Args:
-            data: DataFrame with columns ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+            historical_data: DataFrame with columns ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+                             Data up to current date (t), used to predict signal for t+1
 
         Returns:
-            DataFrame with columns ['Date', 'signal', 'price', 'reason']
-            signal: 'buy', 'sell', 'hold'
-            price: float (execution price, NaN for hold)
-            reason: str (explanation)
+            TradingSignal object with signal, price, and reason
         """
         pass
+
+    def reset_state(self):
+        """Reset internal state (e.g., cached indicators)"""
+        pass
+
+    def get_min_lookback(self) -> int:
+        """Return minimum number of historical days required for signal generation"""
+        return 1
 
     def validate_data(self, data: pd.DataFrame) -> bool:
         """Validate that data has required columns (case-insensitive)"""
@@ -44,7 +63,7 @@ class TradingStrategy(ABC):
         data.columns = [col.upper() for col in data.columns]
         return True
 
-    def get_current_signal(self, data: pd.DataFrame) -> Dict[str, Any]:
+    def get_current_signal(self, data: pd.DataFrame) -> TradingSignal:
         """
         Get signal for the latest data point (for prediction)
 
@@ -52,17 +71,17 @@ class TradingStrategy(ABC):
             data: Recent data DataFrame
 
         Returns:
-            Dict with 'signal', 'price', 'reason'
+            TradingSignal object
         """
         signals_df = self.generate_signals(data)
         if signals_df.empty:
-            return {'signal': 'hold', 'price': None, 'reason': 'no_data'}
+            return TradingSignal(signal='hold', price=None, reason='no_data')
         latest = signals_df.iloc[-1]
-        return {
-            'signal': latest['signal'],
-            'price': latest['price'],
-            'reason': latest['reason']
-        }
+        return TradingSignal(
+            signal=latest['signal'],
+            price=latest['price'],
+            reason=latest['reason']
+        )
 
 
 class SimpleMovingAverageStrategy(TradingStrategy):
@@ -74,51 +93,91 @@ class SimpleMovingAverageStrategy(TradingStrategy):
         default_params = {'short_window': 20, 'long_window': 50}
         params = {**default_params, **(params or {})}
         super().__init__("SMA Crossover", params)
+        self.reset_state()
 
-    def generate_signals(self, data: pd.DataFrame) -> pd.DataFrame:
-        if not self.validate_data(data):
+    def reset_state(self):
+        """Reset cached indicators and rolling windows"""
+        # Lists to store the last 'window' close prices for efficient rolling mean calculation
+        self.short_closes = []
+        self.long_closes = []
+        # Running sums for O(1) updates
+        self.short_sum = 0.0
+        self.long_sum = 0.0
+        # Cached MA values for crossover detection (current day's MAs)
+        self.sma_short = None
+        self.sma_long = None
+
+    def get_min_lookback(self) -> int:
+        return self.params['long_window']
+
+    def _update_rolling_mean(self, new_close: float, closes_list: list, sum_val: float, window: int) -> tuple:
+        """Update rolling mean incrementally, return (new_sum, new_mean)
+        
+        This maintains a sliding window of closes and updates the sum in O(1) time.
+        - Append new close to the list.
+        - Add to sum.
+        - If list exceeds window, remove oldest close and subtract from sum.
+        - Return new sum and mean (if window is full).
+        """
+        closes_list.append(new_close)
+        sum_val += new_close
+        if len(closes_list) > window:
+            sum_val -= closes_list.pop(0)
+        if len(closes_list) == window:
+            return sum_val, sum_val / window
+        return sum_val, None
+
+    def generate_signal(self, historical_data: pd.DataFrame) -> TradingSignal:
+        """Generate trading signal based on SMA crossover.
+        
+        This strategy uses incremental updates to maintain rolling MAs efficiently.
+        - Updates MAs with the latest close from historical_data.
+        - Detects crossover by comparing previous day's MAs with current day's MAs.
+        - Signals are for the next trading day (t+1), using today's close as execution price.
+        """
+        if not self.validate_data(historical_data):
             logger.error("Invalid data format for SMA strategy")
-            return pd.DataFrame(columns=['Date', 'signal', 'price', 'reason'])
+            return TradingSignal(signal='hold', price=None, reason='invalid_data')
 
-        # Ensure Date is datetime
-        data = data.copy()
-        if 'DATE' in data.columns:
-            data['Date'] = pd.to_datetime(data['DATE'])
-            data.set_index('Date', inplace=True)
-        elif data.index.name != 'Date':
-            data.index = pd.to_datetime(data.index)
+        if len(historical_data) < self.get_min_lookback():
+            return TradingSignal(signal='hold', price=None, reason='insufficient_data')
 
-        short_window = self.params['short_window']
-        long_window = self.params['long_window']
+        # Ensure Date is datetime and sorted
+        historical_data = historical_data.copy()
+        if 'Date' not in historical_data.columns:
+            historical_data = historical_data.reset_index().rename(columns={'index': 'Date'})
+        historical_data['Date'] = pd.to_datetime(historical_data['Date'])
+        historical_data = historical_data.sort_values('Date').reset_index(drop=True)
 
-        # Calculate moving averages
-        data['SMA_short'] = data['CLOSE'].rolling(window=short_window).mean()
-        data['SMA_long'] = data['CLOSE'].rolling(window=long_window).mean()
+        close_prices = historical_data['CLOSE']
 
-        # Initialize signals DataFrame
-        signals = pd.DataFrame(index=data.index, columns=['signal', 'price', 'reason'])
-        signals['signal'] = 'hold'
-        signals['price'] = pd.NA
-        signals['reason'] = 'no_crossover'
+        # Capture previous MA values before updating (for crossover detection)
+        prev_sma_short = self.sma_short
+        prev_sma_long = self.sma_long
 
-        # Generate signals
-        prev_short = data['SMA_short'].shift(1)
-        prev_long = data['SMA_long'].shift(1)
+        # Update rolling MAs incrementally with the latest close
+        # This assumes historical_data ends with today's data (t)
+        latest_close = close_prices.iloc[-1]
+        self.short_sum, self.sma_short = self._update_rolling_mean(latest_close, self.short_closes, self.short_sum, self.params['short_window'])
+        self.long_sum, self.sma_long = self._update_rolling_mean(latest_close, self.long_closes, self.long_sum, self.params['long_window'])
 
-        # Buy signal: short crosses above long
-        buy_mask = (data['SMA_short'] > data['SMA_long']) & (prev_short <= prev_long)
-        signals.loc[buy_mask, 'signal'] = 'buy'
-        signals.loc[buy_mask, 'price'] = data.loc[buy_mask, 'CLOSE']
-        signals.loc[buy_mask, 'reason'] = f'SMA{short_window} crossed above SMA{long_window}'
+        # Check for crossover: compare previous day's MAs with current day's MAs
+        # Only signal if both MAs are available and we have previous values
+        if self.sma_short is not None and self.sma_long is not None and prev_sma_short is not None and prev_sma_long is not None:
+            # Bullish crossover: short MA crosses above long MA
+            if self.sma_short > self.sma_long and prev_sma_short <= prev_sma_long:
+                return TradingSignal(
+                    signal='buy',
+                    price=latest_close,  # Execute at today's close price
+                    reason=f'SMA{self.params["short_window"]} crossed above SMA{self.params["long_window"]}'
+                )
+            # Bearish crossover: short MA crosses below long MA
+            elif self.sma_short < self.sma_long and prev_sma_short >= prev_sma_long:
+                return TradingSignal(
+                    signal='sell',
+                    price=latest_close,  # Execute at today's close price
+                    reason=f'SMA{self.params["short_window"]} crossed below SMA{self.params["long_window"]}'
+                )
 
-        # Sell signal: short crosses below long
-        sell_mask = (data['SMA_short'] < data['SMA_long']) & (prev_short >= prev_long)
-        signals.loc[sell_mask, 'signal'] = 'sell'
-        signals.loc[sell_mask, 'price'] = data.loc[sell_mask, 'CLOSE']
-        signals.loc[sell_mask, 'reason'] = f'SMA{short_window} crossed below SMA{long_window}'
-
-        # Reset index to have Date as column
-        signals.reset_index(inplace=True)
-        signals.rename(columns={'index': 'Date'}, inplace=True)
-
-        return signals
+        # No crossover or insufficient data for comparison
+        return TradingSignal(signal='hold', price=None, reason='no_crossover')

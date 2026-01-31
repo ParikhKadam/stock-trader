@@ -1,10 +1,10 @@
 """
 Backtesting module for trading strategies
 """
-from typing import Dict, Any
+from typing import Dict, Any, List
 import pandas as pd
 import numpy as np
-from .strategy import TradingStrategy
+from .strategy import TradingStrategy, TradingSignal
 from .portfolio import Portfolio
 from ..utils.logging import logger
 
@@ -35,38 +35,96 @@ class Backtester:
         """
         logger.info(f"Starting backtest for {symbol} with strategy {self.strategy.name}")
 
-        # Reset portfolio
+        # Reset portfolio and strategy state
         self.portfolio = Portfolio(self.initial_cash)
+        self.strategy.reset_state()
 
         # Prepare data
+        data = self._prepare_data(data)
+
+        # Generate signals
+        signals = self._generate_signals(data)
+
+        # Execute backtest
+        portfolio_values, trades_executed = self._execute_backtest(data, signals, symbol)
+
+        # Calculate metrics
+        metrics = self._calculate_metrics(portfolio_values, data)
+
+        # Prepare results
+        results = self._prepare_results(metrics, trades_executed, portfolio_values, signals)
+
+        logger.info(f"Backtest completed. Total return: {metrics['total_return']:.2%}, Sharpe: {metrics['sharpe_ratio']:.2f}, Max DD: {metrics['max_drawdown']:.2%}")
+
+        return results
+
+    def _prepare_data(self, data: pd.DataFrame) -> pd.DataFrame:
+        """
+        Prepare and validate data for backtesting
+
+        Args:
+            data: Raw DataFrame with historical price data
+
+        Returns:
+            Prepared DataFrame
+        """
         data = data.copy()
         data.columns = [col.upper() for col in data.columns]
         if not isinstance(data.index, pd.DatetimeIndex):
             data.index = pd.to_datetime(data.index)
+        data.index.name = 'Date'
+        return data
 
-        # Generate signals
-        signals_df = self.strategy.generate_signals(data.reset_index())
-        if signals_df.empty:
-            logger.error("No signals generated")
-            return {'error': 'no_signals'}
+    def _generate_signals(self, data: pd.DataFrame) -> Dict:
+        """
+        Generate trading signals for each date
 
-        # Ensure signals are sorted by date
-        signals_df['Date'] = pd.to_datetime(signals_df['Date'])
-        signals_df = signals_df.sort_values('Date').set_index('Date')
+        Args:
+            data: Prepared DataFrame
 
+        Returns:
+            Dict of TradingSignal objects keyed by date
+        """
+        min_lookback = self.strategy.get_min_lookback()
+        dates = data.index
+        signals = {}  # date -> TradingSignal for t+1
+
+        # Generate signals for each t (predicting t+1)
+        for i in range(min_lookback, len(dates) - 1):  # Up to second last date
+            t = dates[i]
+            historical_data = data.iloc[:i+1].reset_index()  # Data up to t
+            signal = self.strategy.generate_signal(historical_data)
+            if signal.signal != 'hold':
+                signals[dates[i+1]] = signal  # Signal for t+1
+
+        return signals
+
+    def _execute_backtest(self, data: pd.DataFrame, signals: Dict, symbol: str) -> tuple:
+        """
+        Execute the backtest by processing signals and tracking portfolio
+
+        Args:
+            data: Prepared DataFrame
+            signals: Dict of TradingSignal objects
+            symbol: Stock symbol
+
+        Returns:
+            Tuple of (portfolio_values list, trades_executed list)
+        """
         portfolio_values = []
         trades_executed = []
+        dates = data.index
 
-        # Iterate through all dates in data
-        for date in data.index:
+        # Execute signals and track portfolio
+        for date in dates:
             current_price = data.loc[date, 'CLOSE']
 
-            # Check if there's a signal on this date
-            if date in signals_df.index:
-                signal = signals_df.loc[date]
-                sig = signal['signal']
-                price = signal['price']
-                reason = signal['reason']
+            # Execute signal if available for this date
+            if date in signals:
+                signal_obj = signals[date]
+                sig = signal_obj.signal
+                price = signal_obj.price
+                reason = signal_obj.reason
 
                 if pd.notna(price):
                     # Adjust price for slippage
@@ -120,7 +178,19 @@ class Backtester:
             portfolio_value = self.portfolio.get_value(current_prices)
             portfolio_values.append({'date': date, 'value': portfolio_value})
 
-        # Calculate metrics
+        return portfolio_values, trades_executed
+
+    def _calculate_metrics(self, portfolio_values: list, data: pd.DataFrame) -> Dict[str, float]:
+        """
+        Calculate performance metrics
+
+        Args:
+            portfolio_values: List of portfolio values over time
+            data: Prepared DataFrame
+
+        Returns:
+            Dict of metrics
+        """
         portfolio_df = pd.DataFrame(portfolio_values)
         if portfolio_df.empty:
             return {'error': 'no_portfolio_data'}
@@ -137,14 +207,50 @@ class Backtester:
         final_price = data['CLOSE'].iloc[-1]
         benchmark_return = (final_price - initial_price) / initial_price
 
-        logger.info(f"Backtest completed. Total return: {total_return:.2%}, Sharpe: {sharpe_ratio:.2f}, Max DD: {max_drawdown:.2%}")
-
         return {
             'total_return': total_return,
             'sharpe_ratio': sharpe_ratio,
             'max_drawdown': max_drawdown,
-            'benchmark_return': benchmark_return,
+            'benchmark_return': benchmark_return
+        }
+
+    def _prepare_results(self, metrics: Dict[str, float], trades_executed: list,
+                        portfolio_values: list, signals: Dict) -> Dict[str, Any]:
+        """
+        Prepare final results dictionary
+
+        Args:
+            metrics: Calculated metrics
+            trades_executed: List of executed trades
+            portfolio_values: List of portfolio values
+            signals: Dict of TradingSignal objects
+
+        Returns:
+            Dict with complete backtest results
+        """
+        portfolio_df = pd.DataFrame(portfolio_values)
+        portfolio_df.set_index('date', inplace=True)
+
+        # Convert signals to DataFrame
+        if signals:
+            signals_data = []
+            for date, signal in signals.items():
+                signals_data.append({
+                    'Date': date,
+                    'signal': signal.signal,
+                    'price': signal.price,
+                    'reason': signal.reason
+                })
+            signals_df = pd.DataFrame(signals_data)
+        else:
+            signals_df = pd.DataFrame()
+
+        return {
+            'total_return': metrics['total_return'],
+            'sharpe_ratio': metrics['sharpe_ratio'],
+            'max_drawdown': metrics['max_drawdown'],
+            'benchmark_return': metrics['benchmark_return'],
             'trades': trades_executed,
             'portfolio_value_over_time': portfolio_df['value'],
-            'signals': signals_df.reset_index()
+            'signals': signals_df
         }

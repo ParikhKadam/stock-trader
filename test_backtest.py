@@ -35,13 +35,16 @@ def main():
     # Show signals
     signals = results['signals']
     print(f"\nNumber of Signals: {len(signals)}")
-    buy_signals = signals[signals['signal'] == 'buy']
-    sell_signals = signals[signals['signal'] == 'sell']
-    print(f"Buy Signals: {len(buy_signals)}, Sell Signals: {len(sell_signals)}")
-    if not buy_signals.empty:
-        print("First Buy Signal:", buy_signals.iloc[0])
-    if not sell_signals.empty:
-        print("First Sell Signal:", sell_signals.iloc[0])
+    if not signals.empty:
+        buy_signals = signals[signals['signal'] == 'buy']
+        sell_signals = signals[signals['signal'] == 'sell']
+        print(f"Buy Signals: {len(buy_signals)}, Sell Signals: {len(sell_signals)}")
+        if not buy_signals.empty:
+            print("First Buy Signal:", buy_signals.iloc[0].to_dict())
+        if not sell_signals.empty:
+            print("First Sell Signal:", sell_signals.iloc[0].to_dict())
+    else:
+        print("No signals generated")
 
     # Show first few trades
     if results['trades']:
