@@ -69,10 +69,10 @@ class Backtester:
             Prepared DataFrame
         """
         data = data.copy()
-        data.columns = [col.upper() for col in data.columns]
+        data.columns = [col.lower() for col in data.columns]  # Convert to snakecase
         if not isinstance(data.index, pd.DatetimeIndex):
             data.index = pd.to_datetime(data.index)
-        data.index.name = 'Date'
+        data.index.name = 'date'  # Also use snakecase for index name
         return data
 
     def _generate_signals(self, data: pd.DataFrame) -> Dict:
@@ -93,6 +93,7 @@ class Backtester:
         for i in range(min_lookback, len(dates) - 1):  # Up to second last date
             t = dates[i]
             historical_data = data.iloc[:i+1].reset_index()  # Data up to t
+            historical_data = historical_data.rename(columns={'index': 'date'})  # Rename index column to snakecase
             signal = self.strategy.generate_signal(historical_data)
             if signal.signal != 'hold':
                 signals[dates[i+1]] = signal  # Signal for t+1
@@ -117,7 +118,7 @@ class Backtester:
 
         # Execute signals and track portfolio
         for date in dates:
-            current_price = data.loc[date, 'CLOSE']
+            current_price = data.loc[date, 'close']
 
             # Execute signal if available for this date
             if date in signals:
@@ -203,8 +204,8 @@ class Backtester:
         max_drawdown = (portfolio_df['value'] / portfolio_df['value'].cummax() - 1).min()
 
         # Benchmark: buy and hold
-        initial_price = data['CLOSE'].iloc[0]
-        final_price = data['CLOSE'].iloc[-1]
+        initial_price = data['close'].iloc[0]
+        final_price = data['close'].iloc[-1]
         benchmark_return = (final_price - initial_price) / initial_price
 
         return {

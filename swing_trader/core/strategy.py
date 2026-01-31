@@ -59,8 +59,8 @@ class TradingStrategy(ABC):
         if missing:
             logger.error(f"Missing required columns: {missing}")
             return False
-        # Normalize column names to uppercase
-        data.columns = [col.upper() for col in data.columns]
+        # Normalize column names to snakecase
+        data.columns = [col.lower() for col in data.columns]
         return True
 
     def get_current_signal(self, data: pd.DataFrame) -> TradingSignal:
@@ -142,14 +142,14 @@ class SimpleMovingAverageStrategy(TradingStrategy):
         if len(historical_data) < self.get_min_lookback():
             return TradingSignal(signal='hold', price=None, reason='insufficient_data')
 
-        # Ensure Date is datetime and sorted
+        # Ensure date is datetime and sorted
         historical_data = historical_data.copy()
-        if 'Date' not in historical_data.columns:
-            historical_data = historical_data.reset_index().rename(columns={'index': 'Date'})
-        historical_data['Date'] = pd.to_datetime(historical_data['Date'])
-        historical_data = historical_data.sort_values('Date').reset_index(drop=True)
+        if 'date' not in historical_data.columns:
+            historical_data = historical_data.reset_index().rename(columns={'index': 'date'})
+        historical_data['date'] = pd.to_datetime(historical_data['date'])
+        historical_data = historical_data.sort_values('date').reset_index(drop=True)
 
-        close_prices = historical_data['CLOSE']
+        close_prices = historical_data['close']
 
         # Capture previous MA values before updating (for crossover detection)
         prev_sma_short = self.sma_short
