@@ -18,11 +18,11 @@ wheels/
 Thumbs.db
 
 # Project specific
-data/           # Downloaded data files
-logs/           # Log files
-.pytest_cache/  # Test cache
-*.log           # Any log files
-temp_*/         # Temporary directories
+data/
+logs/
+.pytest_cache/
+*.log
+temp_*/
 
 # Jupyter
 .ipynb_checkpoints
