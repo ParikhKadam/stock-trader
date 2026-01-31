@@ -44,6 +44,10 @@ def load_csv_data(csv_path: str) -> pd.DataFrame:
         else:
             print("Warning: No date column found, using default index")
 
+        # Normalize column names to snakecase for consistency
+        df.columns = [col.lower() for col in df.columns]
+        print(f"Normalized column names to snakecase: {list(df.columns)}")
+
         return df
 
     except Exception as e:
