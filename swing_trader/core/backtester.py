@@ -4,7 +4,7 @@ Backtesting module for trading strategies
 from typing import Dict, Any, List
 import pandas as pd
 import numpy as np
-from .strategy import TradingStrategy, TradingSignal
+from .strategies import TradingStrategy, TradingSignal, TradingSignal
 from .portfolio import Portfolio
 from ..utils.logging import logger
 

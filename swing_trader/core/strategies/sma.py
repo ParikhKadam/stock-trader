@@ -1,87 +1,10 @@
 """
-Trading strategy base classes
+Simple Moving Average crossover strategy
 """
-from abc import ABC, abstractmethod
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, List
 import pandas as pd
-from pydantic import BaseModel, Field
-from ..utils.logging import logger
-
-
-class TradingSignal(BaseModel):
-    """
-    Standardized trading signal response
-    """
-    signal: str = Field(..., description="Trading signal: 'buy', 'sell', or 'hold'")
-    price: Optional[float] = Field(None, description="Execution price (None for hold signals)")
-    reason: str = Field(..., description="Reason for the signal")
-
-    def __str__(self) -> str:
-        return f"Signal({self.signal}, price={self.price}, reason='{self.reason}')"
-
-
-class TradingStrategy(ABC):
-    """
-    Base class for trading strategies
-    """
-
-    def __init__(self, name: str, params: Dict[str, Any] = None):
-        self.name = name
-        self.params = params or {}
-
-    @abstractmethod
-    def generate_signal(self, historical_data: pd.DataFrame) -> TradingSignal:
-        """
-        Generate a trading signal for the next day based on historical data up to today
-
-        Args:
-            historical_data: DataFrame with columns ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
-                             Data up to current date (t), used to predict signal for t+1
-
-        Returns:
-            TradingSignal object with signal, price, and reason
-        """
-        pass
-
-    def reset_state(self):
-        """Reset internal state (e.g., cached indicators)"""
-        pass
-
-    def get_min_lookback(self) -> int:
-        """Return minimum number of historical days required for signal generation"""
-        return 1
-
-    def validate_data(self, data: pd.DataFrame) -> bool:
-        """Validate that data has required columns (case-insensitive)"""
-        required_columns = ['open', 'high', 'low', 'close', 'volume']
-        data_columns = [col.lower() for col in data.columns]
-        missing = [col for col in required_columns if col not in data_columns]
-        if missing:
-            logger.error(f"Missing required columns: {missing}")
-            return False
-        # Normalize column names to snakecase
-        data.columns = [col.lower() for col in data.columns]
-        return True
-
-    def get_current_signal(self, data: pd.DataFrame) -> TradingSignal:
-        """
-        Get signal for the latest data point (for prediction)
-
-        Args:
-            data: Recent data DataFrame
-
-        Returns:
-            TradingSignal object
-        """
-        signals_df = self.generate_signals(data)
-        if signals_df.empty:
-            return TradingSignal(signal='hold', price=None, reason='no_data')
-        latest = signals_df.iloc[-1]
-        return TradingSignal(
-            signal=latest['signal'],
-            price=latest['price'],
-            reason=latest['reason']
-        )
+from .base import TradingStrategy, TradingSignal
+from ...utils.logging import logger
 
 
 class SimpleMovingAverageStrategy(TradingStrategy):
@@ -112,7 +35,7 @@ class SimpleMovingAverageStrategy(TradingStrategy):
 
     def _update_rolling_mean(self, new_close: float, closes_list: list, sum_val: float, window: int) -> tuple:
         """Update rolling mean incrementally, return (new_sum, new_mean)
-        
+
         This maintains a sliding window of closes and updates the sum in O(1) time.
         - Append new close to the list.
         - Add to sum.
@@ -129,7 +52,7 @@ class SimpleMovingAverageStrategy(TradingStrategy):
 
     def generate_signal(self, historical_data: pd.DataFrame) -> TradingSignal:
         """Generate trading signal based on SMA crossover.
-        
+
         This strategy uses incremental updates to maintain rolling MAs efficiently.
         - Updates MAs with the latest close from historical_data.
         - Detects crossover by comparing previous day's MAs with current day's MAs.
