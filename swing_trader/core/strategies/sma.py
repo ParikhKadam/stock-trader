@@ -13,7 +13,7 @@ class SimpleMovingAverageStrategy(TradingStrategy):
     """
 
     def __init__(self, params: Dict[str, Any] = None):
-        default_params = {'short_window': 20, 'long_window': 50}
+        default_params = {'short_window': 10, 'long_window': 20}
         params = {**default_params, **(params or {})}
         super().__init__("SMA Crossover", params)
         self.reset_state()

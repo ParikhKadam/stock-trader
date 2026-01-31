@@ -65,3 +65,17 @@ Crucial for success: Identify trending vs. range-bound markets and adjust strate
 - Adapt to Indian market quirks (volatility, retail influence).
 - Focus on risk-reward (2:1+), journaling, and continuous learning.
 - Not financial advice; consult professionals.
+
+## Parameter Optimization Learnings
+### Observation
+Updated default parameters for Indian markets improved performance:
+- **SMA**: 20/50 → 10/20 (faster crossovers).
+- **RSI**: 70/30 → 75/25 (stricter thresholds).
+- **Results**: RSI TA strategy showed +11.30% return (vs. 8.34% with old params), fewer trades (4 vs. 9), higher Sharpe (0.24), indicating better signal quality.
+
+### Hypothesis
+Indian markets (NSE/BSE) exhibit higher volatility and retail-driven noise, requiring parameters that filter false signals more aggressively while capturing shorter trends.
+
+### Rationale
+- **Shorter SMAs (10/20)**: Indian stocks have quicker swing cycles due to news/events; longer windows (20/50) lag behind rallies/crashes.
+- **Stricter RSI (75/25)**: Volatility amplifies extremes; wider bands (70/30) trigger premature signals from retail panic, leading to whipsaws. Narrower bands ensure true overbought/oversold conditions.

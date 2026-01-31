@@ -20,8 +20,8 @@ class RSIStrategy(TradingStrategy):
     def __init__(self, params: Dict[str, Any] = None):
         default_params = {
             'rsi_period': 14,
-            'overbought': 70,
-            'oversold': 30
+            'overbought': 75,
+            'oversold': 25
         }
         params = {**default_params, **(params or {})}
         super().__init__("RSI Strategy", params)
