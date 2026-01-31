@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "jugaad-data>=0.29",
+    "yfinance>=0.2.0",
     "loguru>=0.7.3",
     "pandas>=3.0.0",
 ]
