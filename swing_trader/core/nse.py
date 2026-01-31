@@ -44,8 +44,14 @@ def download_stock_data(symbol: str, start_date: str, end_date: str, output_file
 
         if df.empty:
             raise ValueError(f"No data found for symbol {symbol} in the given date range")
-        # Flatten MultiIndex columns
+        
+        # Flatten MultiIndex columns and convert to snakecase
         df.columns = df.columns.droplevel(1)
+        df.columns = [col.lower() for col in df.columns]  # Convert to snakecase
+        
+        # Set index name to snakecase
+        df.index.name = 'date'
+        
         df.to_csv(output_file, index=True)
         logger.success(f"Data saved to {output_file}")
 
