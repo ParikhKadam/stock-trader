@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/           # Downloaded data files
+logs/           # Log files
+.pytest_cache/  # Test cache
+*.log           # Any log files
+temp_*/         # Temporary directories
+
+# Jupyter
+.ipynb_checkpoints

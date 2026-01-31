@@ -1,0 +1,16 @@
+[project]
+name = "swing-trader"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jugaad-data>=0.29",
+    "loguru>=0.7.3",
+    "pandas>=3.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
