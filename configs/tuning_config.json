@@ -1,15 +1,15 @@
 {
   "strategies": {
-    "rsi_ta": {
-      "class": "swing_trader.core.RSITAStrategy",
+    "rsi": {
+      "class": "swing_trader.core.RSIStrategy",
       "params": {
         "rsi_period": {"type": "int", "low": 10, "high": 20},
         "overbought": {"type": "int", "low": 70, "high": 85},
         "oversold": {"type": "int", "low": 15, "high": 30}
       }
     },
-    "sma_ta": {
-      "class": "swing_trader.core.SimpleMovingAverageTAStrategy",
+    "sma": {
+      "class": "swing_trader.core.SimpleMovingAverageStrategy",
       "params": {
         "short_window": {"type": "int", "low": 5, "high": 15},
         "long_window": {"type": "int", "low": 15, "high": 30}

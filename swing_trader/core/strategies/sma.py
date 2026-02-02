@@ -8,7 +8,7 @@ from .base import TradingStrategy, TradingSignal
 from ...utils.logging import logger
 
 
-class SimpleMovingAverageTAStrategy(TradingStrategy):
+class SimpleMovingAverageStrategy(TradingStrategy):
     """
     Simple moving average crossover strategy using pandas-ta-classic
     """
@@ -16,7 +16,7 @@ class SimpleMovingAverageTAStrategy(TradingStrategy):
     def __init__(self, params: Dict[str, Any] = None):
         default_params = {'short_window': 10, 'long_window': 20}
         params = {**default_params, **(params or {})}
-        super().__init__("SMA Crossover TA", params)
+        super().__init__("SMA Crossover", params)
 
     def get_min_lookback(self) -> int:
         return self.params['long_window']

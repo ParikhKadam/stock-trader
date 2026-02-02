@@ -8,7 +8,7 @@ from .base import TradingStrategy, TradingSignal
 from ...utils.logging import logger
 
 
-class RSITAStrategy(TradingStrategy):
+class RSIStrategy(TradingStrategy):
     """
     RSI-based trading strategy using pandas-ta-classic
 
