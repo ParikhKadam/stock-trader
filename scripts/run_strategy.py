@@ -8,19 +8,15 @@ to generate signals and simulate trades.
 import sys
 import os
 import argparse
+import importlib
+import inspect
 import pandas as pd
 from pathlib import Path
 
 # Add the project root to Python path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from swing_trader.core import (
-    SimpleMovingAverageStrategy,
-    RSIStrategy,
-    SimpleMovingAverageTAStrategy,
-    RSITAStrategy,
-    Backtester
-)
+from swing_trader.core import Backtester
 
 
 def load_csv_data(csv_path: str) -> pd.DataFrame:
@@ -56,18 +52,45 @@ def load_csv_data(csv_path: str) -> pd.DataFrame:
         raise ValueError(f"Error loading CSV: {e}")
 
 
+def discover_strategies():
+    """Dynamically discover all strategy classes in the strategies package"""
+    from swing_trader.core.strategies.base import TradingStrategy
+
+    strategies = {}
+    strategies_dir = Path(__file__).parent.parent / 'swing_trader' / 'core' / 'strategies'
+
+    # Skip base.py and __init__.py
+    for py_file in strategies_dir.glob('*.py'):
+        if py_file.name in ['base.py', '__init__.py']:
+            continue
+
+        module_name = f'swing_trader.core.strategies.{py_file.stem}'
+
+        try:
+            module = importlib.import_module(module_name)
+
+            # Find all classes in the module that inherit from TradingStrategy
+            for name, obj in inspect.getmembers(module):
+                if (inspect.isclass(obj) and
+                    issubclass(obj, TradingStrategy) and
+                    obj != TradingStrategy):
+                    # Use filename (without .py) as strategy name
+                    strategy_name = py_file.stem
+                    strategies[strategy_name] = obj
+
+        except ImportError as e:
+            print(f"Warning: Could not import {module_name}: {e}", file=sys.stderr)
+
+    return strategies
+
+
 def get_strategy_class(strategy_name: str):
-    """Get strategy class by name"""
-    strategies = {
-        'sma': SimpleMovingAverageStrategy,
-        'rsi': RSIStrategy,
-        'sma_ta': SimpleMovingAverageTAStrategy,
-        'rsi_ta': RSITAStrategy,
-    }
+    """Get strategy class by name using dynamic discovery"""
+    strategies = discover_strategies()
 
     strategy_name = strategy_name.lower()
     if strategy_name not in strategies:
-        available = ', '.join(strategies.keys())
+        available = ', '.join(sorted(strategies.keys()))
         raise ValueError(f"Unknown strategy '{strategy_name}'. Available: {available}")
 
     return strategies[strategy_name]
@@ -121,38 +144,43 @@ def run_strategy_analysis(data: pd.DataFrame, strategy_name: str, strategy_param
 
     # Print results
     print("\n=== Results ===")
-    print(f"Total Return: {results['total_return']:.2%}")
-    print(f"Sharpe Ratio: {results['sharpe_ratio']:.2f}")
-    print(f"Max Drawdown: {results['max_drawdown']:.2%}")
-    print(f"Benchmark Return: {results['benchmark_return']:.2%}")
-    print(f"Number of Trades: {len(results['trades'])}")
-    print(f"Number of Signals: {len(results['signals'])}")
-    print(f"Number of Trades: {len(results['trades'])}")
-    print(f"Number of Signals: {len(results['signals'])}")
+    print(f"Total Return: {results.total_return:.2%}")
+    print(f"Sharpe Ratio: {results.sharpe_ratio:.2f}")
+    print(f"Max Drawdown: {results.max_drawdown:.2%}")
+    print(f"Benchmark Return: {results.benchmark_return:.2%}")
+    print(f"Number of Trades: {len(results.trades)}")
+    if results.signals:
+        print(f"Number of Signals: {len(results.signals)}")
 
     # Show signals summary
-    signals_df = results['signals']
-    if not signals_df.empty:
-        buy_signals = signals_df[signals_df['signal'] == 'buy']
-        sell_signals = signals_df[signals_df['signal'] == 'sell']
-        print(f"Buy Signals: {len(buy_signals)}, Sell Signals: {len(sell_signals)}")
+    if results.signals:
+        signals_df = results.signals
+        if isinstance(signals_df, pd.DataFrame) and not signals_df.empty:
+            buy_signals = signals_df[signals_df['signal'] == 'buy']
+            sell_signals = signals_df[signals_df['signal'] == 'sell']
+            print(f"Buy Signals: {len(buy_signals)}, Sell Signals: {len(sell_signals)}")
 
-        if len(buy_signals) > 0:
-            print(f"First Buy: {buy_signals.iloc[0]['Date']} - {buy_signals.iloc[0]['reason']}")
-        if len(sell_signals) > 0:
-            print(f"First Sell: {sell_signals.iloc[0]['Date']} - {sell_signals.iloc[0]['reason']}")
+            if len(buy_signals) > 0:
+                print(f"First Buy: {buy_signals.iloc[0]['Date']} - {buy_signals.iloc[0]['reason']}")
+            if len(sell_signals) > 0:
+                print(f"First Sell: {sell_signals.iloc[0]['Date']} - {sell_signals.iloc[0]['reason']}")
 
     # Show first few trades
-    trades = results['trades']
+    trades = results.trades
     if trades:
         print("\nFirst 5 Trades:")
         for i, trade in enumerate(trades[:5]):
-            print(f"{trade['date'].strftime('%Y-%m-%d')}: {trade['type']} {trade['quantity']} @ {trade['price']:.2f}")
+            date_str = trade.date if isinstance(trade.date, str) else trade.date.strftime('%Y-%m-%d')
+            print(f"{date_str}: {trade.type} {trade.quantity} @ {trade.price:.2f}")
 
     return results
 
 
 def main():
+    # Discover available strategies
+    available_strategies = discover_strategies()
+    strategy_choices = sorted(available_strategies.keys())
+    
     parser = argparse.ArgumentParser(
         description="Execute a trading strategy on CSV data",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -165,8 +193,8 @@ Examples:
     )
 
     parser.add_argument('csv_file', help='Path to CSV file with historical data')
-    parser.add_argument('strategy', choices=['sma', 'rsi', 'sma_ta', 'rsi_ta'],
-                       help='Strategy to run (sma=Simple Moving Average, rsi=RSI, sma_ta=SMA with TA, rsi_ta=RSI with TA)')
+    parser.add_argument('strategy', choices=strategy_choices,
+                       help=f'Strategy to run. Available: {", ".join(strategy_choices)}')
 
     parser.add_argument('--params', default='',
                        help='Strategy parameters as comma-separated key=value pairs')
@@ -189,21 +217,24 @@ Examples:
         # Save results if requested
         if args.output:
             # Save signals
-            signals_df = results['signals']
-            if not signals_df.empty:
-                signals_df.to_csv(f"{args.output}_signals.csv", index=False)
-                print(f"\nSignals saved to {args.output}_signals.csv")
+            if results.signals:
+                signals_df = results.signals
+                if isinstance(signals_df, pd.DataFrame) and not signals_df.empty:
+                    signals_df.to_csv(f"{args.output}_signals.csv", index=False)
+                    print(f"\nSignals saved to {args.output}_signals.csv")
 
             # Save trades
-            trades_df = pd.DataFrame(results['trades'])
-            if not trades_df.empty:
-                trades_df.to_csv(f"{args.output}_trades.csv", index=False)
-                print(f"Trades saved to {args.output}_trades.csv")
+            if results.trades:
+                trades_df = pd.DataFrame([trade.dict() for trade in results.trades])
+                if not trades_df.empty:
+                    trades_df.to_csv(f"{args.output}_trades.csv", index=False)
+                    print(f"Trades saved to {args.output}_trades.csv")
 
             # Save portfolio value
-            portfolio_df = results['portfolio_value_over_time']
-            portfolio_df.to_csv(f"{args.output}_portfolio.csv")
-            print(f"Portfolio values saved to {args.output}_portfolio.csv")
+            if results.portfolio_value_over_time:
+                portfolio_df = pd.DataFrame({'value': results.portfolio_value_over_time})
+                portfolio_df.to_csv(f"{args.output}_portfolio.csv", index=False)
+                print(f"Portfolio values saved to {args.output}_portfolio.csv")
 
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
