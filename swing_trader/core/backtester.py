@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 from .strategies import TradingStrategy, TradingSignal, TradingSignal
 from .portfolio import Portfolio
+from .models import BacktestResults, Trade
 from ..utils.logging import logger
 
 
@@ -22,7 +23,7 @@ class Backtester:
         self.slippage = slippage
         self.portfolio = None
 
-    def run_backtest(self, data: pd.DataFrame, symbol: str) -> Dict[str, Any]:
+    def run_backtest(self, data: pd.DataFrame, symbol: str) -> BacktestResults:
         """
         Run backtest on historical data
 
@@ -146,7 +147,7 @@ class Backtester:
                                 fee = max_shares * adjusted_price * self.transaction_fee
                                 self.portfolio.cash -= fee
                                 trades_executed.append({
-                                    'date': date,
+                                    'date': date.isoformat(),
                                     'type': 'BUY',
                                     'symbol': symbol,
                                     'quantity': max_shares,
@@ -164,7 +165,7 @@ class Backtester:
                             fee = shares * adjusted_price * self.transaction_fee
                             self.portfolio.cash -= fee
                             trades_executed.append({
-                                'date': date,
+                                'date': date.isoformat(),
                                 'type': 'SELL',
                                 'symbol': symbol,
                                 'quantity': shares,
@@ -216,9 +217,9 @@ class Backtester:
         }
 
     def _prepare_results(self, metrics: Dict[str, float], trades_executed: list,
-                        portfolio_values: list, signals: Dict) -> Dict[str, Any]:
+                        portfolio_values: list, signals: Dict) -> BacktestResults:
         """
-        Prepare final results dictionary
+        Prepare final results as BacktestResults model
 
         Args:
             metrics: Calculated metrics
@@ -227,31 +228,30 @@ class Backtester:
             signals: Dict of TradingSignal objects
 
         Returns:
-            Dict with complete backtest results
+            BacktestResults instance
         """
         portfolio_df = pd.DataFrame(portfolio_values)
         portfolio_df.set_index('date', inplace=True)
 
-        # Convert signals to DataFrame
+        # Convert trades to Trade models
+        trades = [Trade(**trade) for trade in trades_executed]
+
+        # Convert signals to dict (for now, can be enhanced later)
+        signals_dict = {}
         if signals:
-            signals_data = []
             for date, signal in signals.items():
-                signals_data.append({
-                    'Date': date,
+                signals_dict[str(date)] = {
                     'signal': signal.signal,
                     'price': signal.price,
                     'reason': signal.reason
-                })
-            signals_df = pd.DataFrame(signals_data)
-        else:
-            signals_df = pd.DataFrame()
+                }
 
-        return {
-            'total_return': metrics['total_return'],
-            'sharpe_ratio': metrics['sharpe_ratio'],
-            'max_drawdown': metrics['max_drawdown'],
-            'benchmark_return': metrics['benchmark_return'],
-            'trades': trades_executed,
-            'portfolio_value_over_time': portfolio_df['value'],
-            'signals': signals_df
-        }
+        return BacktestResults(
+            total_return=metrics['total_return'],
+            sharpe_ratio=metrics['sharpe_ratio'],
+            max_drawdown=metrics['max_drawdown'],
+            benchmark_return=metrics['benchmark_return'],
+            trades=trades,
+            portfolio_value_over_time=portfolio_df['value'].tolist(),
+            signals=signals_dict
+        )

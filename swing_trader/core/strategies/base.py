@@ -4,20 +4,8 @@ Base classes for trading strategies
 from abc import ABC, abstractmethod
 from typing import Dict, Any, Optional
 import pandas as pd
-from pydantic import BaseModel, Field
+from ..models import TradingSignal
 from ...utils.logging import logger
-
-
-class TradingSignal(BaseModel):
-    """
-    Standardized trading signal response
-    """
-    signal: str = Field(..., description="Trading signal: 'buy', 'sell', or 'hold'")
-    price: Optional[float] = Field(None, description="Execution price (None for hold signals)")
-    reason: str = Field(..., description="Reason for the signal")
-
-    def __str__(self) -> str:
-        return f"Signal({self.signal}, price={self.price}, reason='{self.reason}')"
 
 
 class TradingStrategy(ABC):

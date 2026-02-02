@@ -1,16 +1,16 @@
 """
-Relative Strength Index (RSI) strategy
+Relative Strength Index (RSI) strategy using pandas-ta-classic
 """
 from typing import Dict, Any, Optional
 import pandas as pd
-import numpy as np
+import pandas_ta_classic as ta
 from .base import TradingStrategy, TradingSignal
 from ...utils.logging import logger
 
 
-class RSIStrategy(TradingStrategy):
+class RSITAStrategy(TradingStrategy):
     """
-    RSI-based trading strategy
+    RSI-based trading strategy using pandas-ta-classic
 
     Generates signals based on RSI overbought/oversold levels.
     - Buy when RSI < 30 (oversold)
@@ -20,51 +20,32 @@ class RSIStrategy(TradingStrategy):
     def __init__(self, params: Dict[str, Any] = None):
         default_params = {
             'rsi_period': 14,
-            'overbought': 70,
-            'oversold': 30
+            'overbought': 75,
+            'oversold': 25
         }
         params = {**default_params, **(params or {})}
-        super().__init__("RSI Strategy", params)
-        self.reset_state()
-
-    def reset_state(self):
-        """Reset any cached state"""
-        pass
+        super().__init__("RSI TA Strategy", params)
 
     def get_min_lookback(self) -> int:
         return self.params['rsi_period'] + 1
 
-    def _calculate_rsi(self, prices: pd.Series, period: int) -> pd.Series:
-        """Calculate RSI for the given price series"""
-        delta = prices.diff()
-        gain = (delta.where(delta > 0, 0)).rolling(window=period).mean()
-        loss = (-delta.where(delta < 0, 0)).rolling(window=period).mean()
-        rs = gain / loss
-        rsi = 100 - (100 / (1 + rs))
-        return rsi
-
     def generate_signal(self, historical_data: pd.DataFrame) -> TradingSignal:
-        """Generate trading signal based on RSI levels"""
+        """Generate trading signal based on RSI levels using pandas-ta-classic"""
         if not self.validate_data(historical_data):
-            logger.error("Invalid data format for RSI strategy")
+            logger.error("Invalid data format for RSI TA strategy")
             return TradingSignal(signal='hold', price=None, reason='invalid_data')
 
         if len(historical_data) < self.get_min_lookback():
             return TradingSignal(signal='hold', price=None, reason='insufficient_data')
 
-        # Ensure date is datetime and sorted
-        historical_data = historical_data.copy()
-        if 'date' not in historical_data.columns:
-            historical_data = historical_data.reset_index().rename(columns={'index': 'date'})
-        historical_data['date'] = pd.to_datetime(historical_data['date'])
-        historical_data = historical_data.sort_values('date').reset_index(drop=True)
+        # Ensure data is sorted
+        data = historical_data.copy().sort_index()
 
-        close_prices = historical_data['close']
-        latest_close = close_prices.iloc[-1]
+        # Calculate RSI using pandas-ta-classic
+        data['rsi'] = ta.rsi(data['close'], length=self.params['rsi_period'])
 
-        # Calculate RSI
-        rsi = self._calculate_rsi(close_prices, self.params['rsi_period'])
-        current_rsi = rsi.iloc[-1]
+        latest_close = data['close'].iloc[-1]
+        current_rsi = data['rsi'].iloc[-1]
 
         if pd.isna(current_rsi):
             return TradingSignal(signal='hold', price=None, reason='rsi_not_available')

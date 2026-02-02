@@ -23,6 +23,7 @@ logs/
 .pytest_cache/
 *.log
 temp_*/
+tuning_results/
 
 # Jupyter
 .ipynb_checkpoints

@@ -1,0 +1,23 @@
+{
+  "strategies": {
+    "rsi_ta": {
+      "class": "swing_trader.core.RSITAStrategy",
+      "params": {
+        "rsi_period": {"type": "int", "low": 10, "high": 20},
+        "overbought": {"type": "int", "low": 70, "high": 85},
+        "oversold": {"type": "int", "low": 15, "high": 30}
+      }
+    },
+    "sma_ta": {
+      "class": "swing_trader.core.SimpleMovingAverageTAStrategy",
+      "params": {
+        "short_window": {"type": "int", "low": 5, "high": 15},
+        "long_window": {"type": "int", "low": 15, "high": 30}
+      }
+    }
+  },
+  "backtest_defaults": {
+    "initial_cash": 100000.0,
+    "symbol": "CSV_DATA"
+  }
+}
