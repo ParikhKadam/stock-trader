@@ -1,0 +1,5 @@
+Multi-Ticker Validation:
+HINDUNILVR (baseline): Events 23, Volume Spike 0.22, RSI Div 0.52, Below SMA50 0.65
+ITC: Error - 'Date'
+NESTLEIND: Error - 'Date'
+BRITANNIA: Error - 'Date'

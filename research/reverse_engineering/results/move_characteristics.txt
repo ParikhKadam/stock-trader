@@ -1,0 +1,9 @@
+Move Characteristics Analysis:
+Total Trades: 23
+Win Rate: 100.0%
+Avg Win: 12.04%
+Avg Loss: nan%
+Expectancy: 0.00%
+Avg MFE: 12.04%
+Avg MAE: -0.05%
+Avg Time to Exit: 10.2 days

@@ -1,0 +1,28 @@
+Overall Frequencies:
+price_broke_monthly_high: 0.0%
+price_broke_monthly_low: 21.7%
+volume_spike: 52.2%
+rsi_divergence: 26.1%
+price_above_sma50: 30.4%
+price_below_sma50: 65.2%
+
+Up Move Frequencies:
+price_broke_monthly_high: 0.0%
+price_broke_monthly_low: 26.3%
+volume_spike: 63.2%
+rsi_divergence: 26.3%
+price_above_sma50: 36.8%
+price_below_sma50: 57.9%
+
+Down Move Frequencies:
+price_broke_monthly_high: 0.0%
+price_broke_monthly_low: 0.0%
+volume_spike: 0.0%
+rsi_divergence: 25.0%
+price_above_sma50: 0.0%
+price_below_sma50: 100.0%
+
+Top Clusters (>20% freq):
+('below_sma50',): 21.7%
+
+Hypotheses:
