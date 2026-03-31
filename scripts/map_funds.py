@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Input and output files
 input_file = Path("mutualfunds/raw_funds.tsv")
-output_file = Path("mutualfunds/top_funds_moneycontrol_updated.tsv")
+output_file = Path("mutualfunds/all_funds_moneycontrol.tsv")
 
 # Read raw data
 df = pd.read_csv(input_file, sep="\t")
