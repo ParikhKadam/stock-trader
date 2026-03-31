@@ -35,37 +35,47 @@ CATEGORY_MAPPING = {
     "Mid Cap Fund": "Mid-Cap",
     "Small Cap Fund": "Small-Cap",
     "Multi Cap Fund": "Multi-Cap",
-    "Flexi Cap Fund": "Flexi-Cap",
-    "Large & Mid Cap Fund": "Large-Mid-Cap",
-    "Focused Fund": "Focused",
+
+    # 🔥 FIXED ONES
+    "Flexi Cap Fund": "Flexi Cap",                  # space, not hyphen
+    "Large & Mid Cap Fund": "Large & Mid-Cap",      # keep &
+    "Focused Fund": "Focused Fund",                 # full name
     "Value Fund": "Value",
     "Contra Fund": "Contra",
     "ELSS": "ELSS",
-    "Sectoral/Thematic": "Sectoral-Thematic"
+    "Sectoral/Thematic": "Sectoral/Thematic"        # keep slash
 }
 
-# 📁 Output
+
 output_dir = Path("mutualfunds")
 output_dir.mkdir(exist_ok=True)
-output_file = output_dir / "all_funds.tsv"
+output_file = output_dir / "raw_funds.tsv"
 
-# 🔥 Session (important)
 session = requests.Session()
 session.headers.update(HEADERS)
 
-# Warm-up request (sets cookies)
+# Warm-up
 session.get("https://www.moneycontrol.com/")
 
 all_funds = []
 
 
-# 🔧 Helper: flatten trailing returns
 def extract_returns(trailing_returns):
     result = {}
     for item in trailing_returns:
         freq = item.get("frequency")
         result[freq] = item.get("annualisedReturn")
     return result
+
+
+def debug_response(response, note=""):
+    print("\n🚨 DEBUG INFO", f"({note})" if note else "")
+    print("URL:", response.url)
+    print("Status:", response.status_code)
+    print("Content-Type:", response.headers.get("content-type"))
+    print("Response (first 500 chars):")
+    print(response.text[:500])
+    print("-" * 80)
 
 
 # 🔁 Main loop
@@ -87,17 +97,23 @@ for category_name, api_category in CATEGORY_MAPPING.items():
 
             print(f"➡️ Page {page}: {response.status_code}")
 
-            # 🚨 Detect blocked / invalid response
+            # ❌ Non-JSON response
             if "application/json" not in response.headers.get("content-type", ""):
-                print("⚠️ Non-JSON response")
-                print(response.text[:200])
+                debug_response(response, "Non-JSON response")
                 break
 
-            data = response.json()
+            # ❌ JSON parsing failure
+            try:
+                data = response.json()
+            except Exception:
+                debug_response(response, "JSON decode failed")
+                break
 
             schemes = data.get("data", {}).get("schemeList", [])
 
+            # ❌ Unexpected empty data (debug it!)
             if not schemes:
+                debug_response(response, "Empty schemeList")
                 print(f"⛔ No more data (page {page})")
                 break
 
@@ -130,6 +146,8 @@ for category_name, api_category in CATEGORY_MAPPING.items():
 
         except Exception as e:
             print(f"❌ Error: {e}")
+            if 'response' in locals():
+                debug_response(response, "Exception occurred")
             break
 
     print(f"📦 Total: {len(category_data)}")
@@ -146,6 +164,5 @@ if all_funds:
         writer.writerows(all_funds)
 
     print(f"\n💾 Saved {len(all_funds)} funds → {output_file}")
-
 else:
     print("⚠️ No data collected")
