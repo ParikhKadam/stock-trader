@@ -1,0 +1,961 @@
+schemeName	isin	stock_name	sector	market_value	weight	change_1m	period	weightage
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Treps - Tri-Party Repo		5,872.96	6.23		Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Max Financial Services Ltd	Financial Services	4,677.28	4.96	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	The Federal Bank Ltd	Financial Services	3,832.83	4.07	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AU Small Finance Bank Ltd	Financial Services	3,766.42	4.00	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Bank	Financial Services	3,650.44	3.87	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Balkrishna Industries Ltd	Consumer Cyclical	3,185.31	3.38	1.04	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Fortis Healthcare Ltd	Healthcare	2,911.58	3.09	8.81	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ipca Laboratories Ltd	Healthcare	2,751.18	2.92	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Glenmark Pharmaceuticals Ltd	Healthcare	2,738.25	2.91	1.10	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vishal Mega Mart Ltd	Consumer Cyclical	2,513.38	2.67	23.05	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hindustan Petroleum Corp Ltd	Energy	2,436.42	2.58	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Marico Ltd	Consumer Defensive	2,371.23	2.52	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mahindra & Mahindra Financial Services Ltd	Financial Services	2,319.74	2.46	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cummins India Ltd	Industrials	2,203.36	2.34	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Union Bank of India	Financial Services	1,959.71	2.08	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Apollo Tyres Ltd	Consumer Cyclical	1,902.11	2.02	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coforge Ltd	Technology	1,852.29	1.97	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jindal Steel Ltd	Basic Materials	1,828.97	1.94	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Tata Communications Ltd	Communication Services	1,780.90	1.89	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aurobindo Pharma Ltd	Healthcare	1,628.59	1.73	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Alkem Laboratories Ltd	Healthcare	1,597.28	1.69	8.87	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dabur India Ltd	Consumer Defensive	1,590.98	1.69	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Persistent Systems Ltd	Technology	1,579.79	1.68	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Delhivery Ltd	Industrials	1,366.93	1.45	2.94	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bosch Ltd	Consumer Cyclical	1,348.89	1.43	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Karur Vysya Bank Ltd	Financial Services	1,295.08	1.37	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	AIA Engineering Ltd	Industrials	1,281.91	1.36	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharat Forge Ltd	Consumer Cyclical	1,230.08	1.31	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Mphasis Ltd	Technology	1,228.54	1.30	6.28	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	United Spirits Ltd	Consumer Defensive	1,193.89	1.27	3.29	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gland Pharma Ltd	Healthcare	1,151.23	1.22	3.37	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Coromandel International Ltd	Basic Materials	1,094.31	1.16	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	PB Fintech Ltd	Financial Services	1,053.99	1.12	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Redington Ltd	Technology	994.52	1.06	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Star Health and Allied Insurance Co Ltd	Financial Services	959.09	1.02	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indian Hotels Co Ltd	Consumer Cyclical	941.08	1.00	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Nippon Life India Asset Management Ltd Ordinary Shares	Financial Services	925.17	0.98	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Eternal Ltd	Consumer Cyclical	885.46	0.94	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	IndusInd Bank Ltd	Financial Services	882.70	0.94	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Godrej Consumer Products Ltd	Consumer Defensive	879.60	0.93	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Escorts Kubota Ltd	Industrials	878.23	0.93	3.78	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Indraprastha Gas Ltd	Utilities	873.81	0.93	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Timken India Ltd	Industrials	764.77	0.81	0.18	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ACC Ltd	Basic Materials	755.74	0.80	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	741.76	0.79	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	City Union Bank Ltd	Financial Services	733.16	0.78	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Hexaware Technologies Ltd Ordinary Shares	Technology	705.03	0.75	0.23	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Supreme Industries Ltd	Industrials	658.90	0.70	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sundaram Fasteners Ltd	Consumer Cyclical	629.65	0.67	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India (Industrial) Ltd	Industrials	602.96	0.64	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dixon Technologies (India) Ltd	Technology	541.44	0.57	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Sona BLW Precision Forgings Ltd	Consumer Cyclical	538.04	0.57	0.99	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KEC International Ltd	Industrials	528.66	0.56	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Gujarat Fluorochemicals Ltd Ordinary Shares	Basic Materials	483.00	0.51	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Net Current Assets		-432.56	0.46		Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	SKF India Ltd	Industrials	408.84	0.43	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vardhman Textiles Ltd	Consumer Cyclical	394.68	0.42	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Cholamandalam Financial Holdings Ltd	Financial Services	370.06	0.39	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Vesuvius India Ltd	Industrials	363.36	0.39	-1.28	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aarti Industries Ltd	Basic Materials	345.70	0.37	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Emami Ltd	Consumer Defensive	343.23	0.36	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Ceat Ltd	Consumer Cyclical	322.41	0.34	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Symphony Ltd	Consumer Cyclical	294.28	0.31	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenlam Industries Ltd	Consumer Cyclical	292.43	0.31	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Arvind Ltd	Consumer Cyclical	286.66	0.30	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Lombard General Insurance Co Ltd	Financial Services	250.29	0.27	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Oracle Financial Services Software Ltd	Technology	236.14	0.25	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Navneet Education Ltd	Communication Services	230.72	0.24	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Bharti Hexacom Ltd	Communication Services	219.41	0.23	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Colgate-Palmolive (India) Ltd	Consumer Defensive	180.81	0.19	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Billionbrains Garage Ventures Ltd	Financial Services	165.93	0.18	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Five-Star Business Finance Ltd	Financial Services	161.00	0.17	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	LG Electronics India Ltd	Technology	159.67	0.17	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	KNR Constructions Ltd	Industrials	140.48	0.15	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenply Industries Ltd	Basic Materials	120.19	0.13	0.40	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Dhanuka Agritech Ltd	Basic Materials	105.70	0.11	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Greenpanel Industries Ltd Ordinary Shares	Basic Materials	87.87	0.09	-17.21	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Jagran Prakashan Ltd	Communication Services	47.68	0.05	0.00	Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	42.41	0.04		Aug25	8.13
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Oct24	5.55
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Nov24	7.52
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Dec24	3.56
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Jan25	5.32
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Feb25	5.59
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Mar25	15.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Apr25	12.51
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	May25	11.15
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	June25	10.18
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	July25	9.19
+HDFC Mid Cap Dir Gr	INF179K01XQ0	ICICI Prudential Asset Management Co Ltd	Financial Services	20.94	0.02	-50.00	Aug25	8.13
