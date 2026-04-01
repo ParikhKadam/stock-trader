@@ -1,0 +1,817 @@
+schemeName	isin	stock_name	sector	market_value	weight	change_1m	period	weightage
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	ICICI Bank Ltd	Financial Services	8,824.96	8.78	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Treps - Tri-Party Repo		8,524.51	8.49		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Axis Bank Ltd	Financial Services	7,473.06	7.44	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HDFC Bank Ltd	Financial Services	7,279.55	7.25	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	State Bank of India	Financial Services	5,287.48	5.26	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	SBI Life Insurance Co Ltd	Financial Services	4,074.40	4.06	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kotak Mahindra Bank Ltd	Financial Services	3,778.32	3.76	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bharti Airtel Ltd	Communication Services	3,072.53	3.06	48.63	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Maruti Suzuki India Ltd	Consumer Cyclical	2,971.40	2.96	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	HCL Technologies Ltd	Technology	2,951.79	2.94	18.05	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Larsen & Toubro Ltd	Industrials	2,860.22	2.85	183.07	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cipla Ltd	Healthcare	2,831.22	2.82	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Power Grid Corp Of India Ltd	Utilities	2,717.72	2.71	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eicher Motors Ltd	Consumer Cyclical	2,563.36	2.55	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bajaj Auto Ltd	Consumer Cyclical	1,994.50	1.99	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hyundai Motor India Ltd	Consumer Cyclical	1,948.86	1.94	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	InterGlobe Aviation Ltd	Industrials	1,879.15	1.87	94.64	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JSW Steel Ltd	Basic Materials	1,795.87	1.79	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nexus Select Trust Reits	Real Estate	1,778.81	1.77	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Infosys Ltd	Technology	1,736.75	1.73	25.18	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Net Current Assets		-1,729.37	1.72		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd	Basic Materials	1,677.41	1.67	-1.25	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bank of Baroda	Financial Services	1,674.14	1.67	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Oil & Natural Gas Corp Ltd	Energy	1,538.35	1.53	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Eternal Ltd	Consumer Cyclical	1,495.29	1.49	326.56	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Piramal Pharma Ltd	Healthcare	1,405.17	1.40	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Bosch Ltd	Consumer Cyclical	1,110.96	1.11	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Persistent Systems Ltd	Technology	1,019.55	1.01		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Lupin Ltd	Healthcare	966.80	0.96	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Divi's Laboratories Ltd	Healthcare	835.49	0.83		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	FSN E-Commerce Ventures Ltd	Consumer Cyclical	822.99	0.82	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	United Spirits Ltd	Consumer Defensive	791.89	0.79	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Havells India Ltd	Industrials	684.58	0.68	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Vishal Mega Mart Ltd	Consumer Cyclical	670.96	0.67		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	PB Fintech Ltd	Financial Services	660.39	0.66		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Max Healthcare Institute Ltd Ordinary Shares	Healthcare	588.97	0.59		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dr. Lal PathLabs Ltd	Healthcare	584.94	0.58	4.46	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Nuvoco Vista Corp Ltd	Basic Materials	574.26	0.57	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Apollo Hospitals Enterprise Ltd	Healthcare	567.06	0.56	11.54	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Embassy Office Parks REIT	Real Estate	552.54	0.55	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Varroc Engineering Ltd Ordinary Shares	Consumer Cyclical	551.80	0.55	2.01	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Consultancy Services Ltd	Technology	503.40	0.50	27.25	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cyient Ltd	Industrials	503.09	0.50	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Kalpataru Projects International Ltd	Industrials	496.04	0.49	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	CIE Automotive India Ltd	Consumer Cyclical	471.65	0.47	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Cements Ltd	Basic Materials	447.88	0.45	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ashok Leyland Ltd	Industrials	432.76	0.43	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Escorts Kubota Ltd	Industrials	422.23	0.42	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sapphire Foods India Ltd	Consumer Cyclical	408.58	0.41	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Crompton Greaves Consumer Electricals Ltd	Consumer Cyclical	373.88	0.37	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	JK Lakshmi Cement Ltd	Basic Materials	357.03	0.36	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Swiggy Ltd	Consumer Cyclical	327.49	0.33	18.68	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Metropolis Healthcare Ltd	Healthcare	309.37	0.31	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Sundaram Fasteners Ltd	Consumer Cyclical	296.87	0.30	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.38% Gs 2027		296.60	0.30	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	BSE Ltd	Financial Services	295.65	0.29		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Restaurant Brands Asia Ltd Ordinary Shares	Consumer Cyclical	212.89	0.21	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Dixon Technologies (India) Ltd	Technology	177.10	0.18		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Birlasoft Ltd	Technology	167.74	0.17	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Multi Commodity Exchange of India Ltd	Financial Services	151.15	0.15		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cohance Lifesciences Ltd	Healthcare	123.98	0.12	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.32% Gs 2030		114.47	0.11	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	7.37% Gs 2028		104.10	0.10	0.00	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Aster DM Healthcare Ltd Ordinary Shares	Healthcare	68.37	0.07		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Tata Steel Ltd.		-29.24	0.03		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Cash Offset For Derivatives		29.24	0.03		Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Ramco Systems Ltd	Technology	4.40	0.00	-92.54	Aug25	8.13
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Oct24	5.55
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Nov24	7.52
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Dec24	3.56
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Jan25	5.32
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Feb25	5.59
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Mar25	15.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Apr25	12.51
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	May25	11.15
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	June25	10.18
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	July25	9.19
+HDFC Flexi Cap Dir Gr	INF179K01UT0	Hindalco Industries Ltd		0.00	0.00	-100.00	Aug25	8.13
