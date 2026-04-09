@@ -1,0 +1,637 @@
+schemeName	isin	stock_name	sector	market_value	weight	change_1m	period	weightage
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Vedanta Ltd	Basic Materials	5.29	5.23	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	TVS Motor Co Ltd	Consumer Cyclical	3.95	3.91	0.39	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Divi's Laboratories Ltd	Healthcare	3.55	3.51	0.91	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bharat Petroleum Corp Ltd	Energy	3.24	3.21	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Aeronautics Ltd Ordinary Shares	Industrials	3.23	3.19	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Cholamandalam Investment and Finance Co Ltd	Financial Services	3.18	3.14	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Britannia Industries Ltd	Consumer Defensive	3.08	3.05	1.02	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Oil Corp Ltd	Energy	3.04	3.00	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tata Power Co Ltd	Utilities	2.76	2.73	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Varun Beverages Ltd	Consumer Defensive	2.68	2.65	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Power Finance Corp Ltd	Financial Services	2.62	2.59	1.15	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bank of Baroda	Financial Services	2.59	2.56	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Samvardhana Motherson International Ltd	Consumer Cyclical	2.58	2.55	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Hotels Co Ltd	Consumer Cyclical	2.56	2.53	1.23	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Avenue Supermarts Ltd	Consumer Defensive	2.46	2.44	0.39	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Power Ltd	Utilities	2.40	2.37	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Canara Bank	Financial Services	2.31	2.29	1.29	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	CG Power & Industrial Solutions Ltd	Industrials	2.17	2.15	1.41	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Godrej Consumer Products Ltd	Consumer Defensive	2.13	2.11	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Holdings and Investment Ltd	Financial Services	2.04	2.01	0.37	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Jindal Steel Ltd	Basic Materials	2.01	1.99	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Pidilite Industries Ltd	Basic Materials	2.00	1.98	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ICICI Lombard General Insurance Co Ltd	Financial Services	1.99	1.97	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	GAIL (India) Ltd	Utilities	1.99	1.96	1.00	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Torrent Pharmaceuticals Ltd	Healthcare	1.96	1.94	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Punjab National Bank	Financial Services	1.95	1.93	1.45	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	REC Ltd	Financial Services	1.89	1.87	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	LTIMindtree Ltd	Technology	1.80	1.78	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	United Spirits Ltd	Consumer Defensive	1.76	1.74	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Info Edge (India) Ltd	Communication Services	1.74	1.72	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	DLF Ltd	Real Estate	1.68	1.66	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Havells India Ltd	Industrials	1.52	1.51	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Energy Solutions Ltd	Utilities	1.52	1.51	1.11	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Shree Cement Ltd	Basic Materials	1.51	1.49	0.35	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Solar Industries India Ltd	Basic Materials	1.42	1.41	0.38	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	ABB India Ltd	Industrials	1.38	1.36	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bosch Ltd	Consumer Cyclical	1.37	1.35	0.27	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Ambuja Cements Ltd	Basic Materials	1.35	1.33	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hyundai Motor India Ltd	Consumer Cyclical	1.33	1.32	0.39	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Ltd	Industrials	1.31	1.29	0.39	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Adani Green Energy Ltd	Utilities	1.25	1.24	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Lodha Developers Ltd	Real Estate	1.20	1.19	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Hindustan Zinc Ltd	Basic Materials	1.13	1.12	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	JSW Energy Ltd	Utilities	1.13	1.11	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Siemens Energy India Ltd	Utilities	1.12	1.11	0.39	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Zydus Lifesciences Ltd	Healthcare	0.99	0.98	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Life Insurance Corporation of India	Financial Services	0.81	0.80	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Indian Railway Finance Corp Ltd Ordinary Shares	Financial Services	0.80	0.79	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Mazagon Dock Shipbuilders Ltd	Industrials	0.73	0.73	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Treps		0.65	0.65		Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Net Receivables / (Payables)		-0.43	0.42		Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Bajaj Housing Finance Ltd	Financial Services	0.35	0.35	0.40	Aug25	8.13
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Oct24	5.55
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Nov24	7.52
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Dec24	3.56
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Jan25	5.32
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Feb25	5.59
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Mar25	15.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Apr25	12.51
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		May25	11.15
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		June25	10.18
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		July25	9.19
+LIC MF Nifty Next 50 Index Dir Gr	INF397L01AW2	Tvs Motor Company Limited		0.04	0.04		Aug25	8.13

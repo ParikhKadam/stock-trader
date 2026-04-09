@@ -1,0 +1,889 @@
+schemeName	isin	stock_name	sector	market_value	weight	change_1m	period	weightage
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Bank Ltd	Financial Services	4,534.69	8.82	3.03	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Bank Ltd	Financial Services	3,609.68	7.02	10.56	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Reliance Industries Ltd	Energy	2,723.34	5.30	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Larsen & Toubro Ltd	Industrials	2,180.98	4.24	15.84	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Axis Bank Ltd	Financial Services	2,161.03	4.20	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	State Bank of India	Financial Services	2,052.76	3.99	-10.48	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Infosys Ltd	Technology	1,511.51	2.94	21.22	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	GE Vernova T&D India Ltd	Industrials	1,451.71	2.82	-9.85	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bajaj Finance Ltd	Financial Services	1,441.06	2.80	-1.22	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	ITC Ltd	Consumer Defensive	1,343.14	2.61	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Ltd	Utilities	1,276.23	2.48	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mahindra & Mahindra Ltd	Consumer Cyclical	1,253.84	2.44	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consultancy Services Ltd	Technology	1,239.58	2.41	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Maruti Suzuki India Ltd	Consumer Cyclical	1,188.93	2.31	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hindustan Unilever Ltd	Consumer Defensive	1,177.41	2.29	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Kotak Mahindra Bank Ltd	Financial Services	1,039.44	2.02	31.52	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Avenue Supermarts Ltd	Consumer Defensive	978.14	1.90	2.31	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Power Co Ltd	Utilities	849.49	1.65	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Samvardhana Motherson International Ltd	Consumer Cyclical	847.37	1.65	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	UltraTech Cement Ltd	Basic Materials	729.53	1.42	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dr Reddy's Laboratories Ltd	Healthcare	689.13	1.34	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Steel Ltd	Basic Materials	658.29	1.28	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Life Insurance Co Ltd	Financial Services	640.27	1.25	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	ABB India Ltd	Industrials	601.70	1.17	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Eternal Ltd	Consumer Cyclical	567.04	1.10	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Divi's Laboratories Ltd	Healthcare	551.89	1.07	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	InterGlobe Aviation Ltd	Industrials	550.18	1.07	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Chalet Hotels Ltd	Consumer Cyclical	542.59	1.06	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Lupin Ltd	Healthcare	540.83	1.05	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Motors Ltd	Consumer Cyclical	506.39	0.99	-18.67	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	HCL Technologies Ltd	Technology	500.20	0.97	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Indian Hotels Co Ltd	Consumer Cyclical	497.66	0.97	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vedanta Ltd	Basic Materials	474.92	0.92	-8.07	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tata Consumer Products Ltd	Consumer Defensive	471.18	0.92	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cholamandalam Investment and Finance Co Ltd	Financial Services	467.55	0.91	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Energy India Ltd	Utilities	463.57	0.90	-3.04	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Trent Ltd	Consumer Cyclical	461.52	0.90	17.96	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cipla Ltd	Healthcare	434.05	0.84	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Shree Cement Ltd	Basic Materials	396.82	0.77	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDFC Life Insurance Co Ltd	Financial Services	393.42	0.77	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	ICICI Lombard General Insurance Co Ltd	Financial Services	382.84	0.74	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Swiggy Ltd	Consumer Cyclical	381.22	0.74	59.72	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	PB Fintech Ltd	Financial Services	370.85	0.72	249.29	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Siemens Ltd	Industrials	370.55	0.72	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Sun Pharmaceuticals Industries Ltd	Healthcare	367.25	0.71	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Hyundai Motor India Ltd	Consumer Cyclical	363.58	0.71	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Triparty Repo		361.14	0.70		Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	SBI Cards and Payment Services Ltd Ordinary Shares	Financial Services	359.31	0.70	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Vishal Mega Mart Ltd	Consumer Cyclical	353.55	0.69	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	NTPC Green Energy Ltd	Utilities	342.37	0.67	2.38	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Tech Mahindra Ltd	Technology	339.14	0.66	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	EIH Ltd	Consumer Cyclical	336.49	0.65	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Mankind Pharma Ltd	Healthcare	330.91	0.64	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	HDB Financial Services Ltd	Financial Services	257.79	0.50	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Max Financial Services Ltd	Financial Services	254.96	0.50	-15.82	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Godrej Consumer Products Ltd	Consumer Defensive	249.59	0.49	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Havells India Ltd	Industrials	249.13	0.48	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Varun Beverages Ltd	Consumer Defensive	235.89	0.46	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gillette India Ltd	Consumer Defensive	215.42	0.42	1.78	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Dixon Technologies (India) Ltd	Technology	183.30	0.36		Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Devyani International Ltd	Consumer Cyclical	173.84	0.34	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Grasim Industries Ltd	Basic Materials	168.73	0.33	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Colgate-Palmolive (India) Ltd	Consumer Defensive	167.10	0.33	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	DLF Ltd	Real Estate	159.66	0.31	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Linde India Ltd	Basic Materials	145.66	0.28	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	United Breweries Ltd	Consumer Defensive	118.24	0.23	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	PVR INOX Ltd	Communication Services	97.69	0.19	0.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Honeywell Automation India Ltd	Industrials	73.63	0.14	-14.48	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Net Current Assets		-7.32	0.01		Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash Margin - Ccil		2.25	0.00		Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Bharat Forge Ltd		0.00	0.00	-100.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Cash		0.00	0.00		Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Gland Pharma Ltd		0.00	0.00	-100.00	Aug25	8.13
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Oct24	5.55
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Nov24	7.52
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Dec24	3.56
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Jan25	5.32
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Feb25	5.59
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Mar25	15.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Apr25	12.51
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	May25	11.15
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	June25	10.18
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	July25	9.19
+Nippon India Large Cap Dir Gr	INF204K01XI3	Asian Paints Ltd		0.00	0.00	-100.00	Aug25	8.13
