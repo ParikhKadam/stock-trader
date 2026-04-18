@@ -19,6 +19,7 @@ Key things to understand:
 - `MAX_PORTFOLIO_SIZE = 10` — the optimizer stops adding funds once it has 10. Without this cap the optimizer selected 22 funds (adding any low-overlap fund always increases the score sum).
 - `ALLOC_FLOOR = 0.05, ALLOC_CAP = 0.20` — no fund gets less than 5% or more than 20% of the portfolio. With 10 funds the floor requires 50%, leaving 50% headroom for score-proportional differentiation. With 22 funds the floor required 110%, which is impossible — everything collapsed to a flat 4.5%.
 - `PROFILE_WEIGHTS` — the full weight table for all three profiles. The `assert` at the bottom verifies each row sums exactly to 1.0.
+- `CATEGORY_EXCLUSIONS` — per-profile list of category names to drop before scoring. Conservative defaults exclude `Small-Cap` (volatility regime) and `Sector - Financial Services` (single-sector concentration). Moderate and Aggressive default to empty (no hard exclusions). Strings must match the `Category Name` column exactly. The config cell prints `Excluded cats` so you can confirm what is active before running the rest.
 
 ---
 
@@ -46,7 +47,7 @@ The join: clean both names the same way → build a dict `{cleaned_name: isin}` 
 
 ---
 
-## Cell 8 — Phase 0: Four hard gates
+## Cell 8 — Phase 0: Five hard gates
 
 Funds are dropped permanently here if they fail any gate. The order matters — each gate shrinks the pool before the next check.
 
@@ -54,6 +55,7 @@ Funds are dropped permanently here if they fail any gate. The order matters — 
 2. **Crisil ≥ 4** — eliminates the bottom ~68% of each category. Crisil is a noisy backward-looking signal, but using it as a quality floor to exclude genuinely weak funds is valid. Crisil is NOT scored as a factor (that would double-count it — the gate already does the screening job).
 3. **5Y return exists** — excludes funds younger than 5 years. Ensures everyone in the universe has comparable medium-term history.
 4. **Holdings file exists** — without a holdings file the fund cannot participate in overlap computation. By gating here (rather than at Phase 5), the scoring universe used for percentile computation in Phase 2 only contains funds that can actually appear in the final portfolio. Previously this check happened at Phase 5, silently wasting shortlist slots.
+5. **Category exclusions** — drops any fund whose `Category Name` appears in `CATEGORY_EXCLUSIONS[PROFILE]`. This is a profile-level risk-tolerance decision: Conservative investors avoid Small-Cap (volatility regime mismatch) and Sector - Financial Services (single-sector concentration). The gate runs after the holdings check so the eligible universe printed at the end is exact — no excluded-category funds will appear in scoring or percentile computation downstream. If the exclusion list is empty (moderate/aggressive defaults), this gate is a no-op.
 
 ---
 
